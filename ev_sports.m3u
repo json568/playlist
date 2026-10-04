@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ElevenSports1.pl" tvg-logo="https://wikimedia.org" group-title="Sports", Eleven Sports 1 HD (Server 1)
+https://windnew.iosplayer.ru/wind/premium71/mono.m3u8
+
+#EXTINF:-1 tvg-id="ElevenSports1.pl" tvg-logo="https://wikimedia.org" group-title="Sports", Eleven Sports 1 4K (Server 2)
+http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/20068/index.m3u8
+
+#EXTINF:-1 tvg-id="ElevenSports2.pl" tvg-logo="https://wikimedia.org" group-title="Sports", Eleven Sports 2 HD (Server 1)
+https://raw.githubusercontent.com/lowa8026-cmyk/iptv/refs/heads/main/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ElevenSports2.pl" tvg-logo="https://wikimedia.org" group-title="Sports", Eleven Sports 2 HD (Server 2)
+https://yellow-brook-b070.n3702953.workers.dev/eleven_sports2/index.m3u8
+
+#EXTINF:-1 tvg-id="ElevenSports3.pl" tvg-logo="https://wikimedia.org" group-title="Sports", Eleven Sports 3 HD (Server 1)
+http://109.233.89.166/Eleven_Sports_3_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="ElevenSports3.pl" tvg-logo="https://wikimedia.org" group-title="Sports", Eleven Sports 3 HD (Server 2)
+http://109.233.89.170/Eleven_Sports_3_HD/mono.m3u8
+
+#EXTINF:-1 tvg-id="ElevenSports4.pl" tvg-logo="https://wikimedia.org" group-title="Sports", Eleven Sports 4 HD
+http://109.233.89.166/ELEVEN_SPORTS_4_HD/mono.m3u8
